@@ -1,8 +1,8 @@
-## Hi there 👋 I am Dinush Chathurya
+## Hi there 👋 I am Hasindu Charith
 
 ### I'm Social Media Influencer, Developer, Content Creator and Blogger!
 
-- 🔭 I’m currently working on  [codingtricks.io](http://codingtricks.io/)
+- 🔭 I’m currently working on  Helium
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
@@ -42,10 +42,10 @@
 
 <div style="text-align:center;">
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dinushchathurya&count_private=true&show_icons=true&theme=radical)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hasinducharith&count_private=true&show_icons=true&theme=radical)
 
-[![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=9960450&theme=dark)](https://stackoverflow.com/users/9960450/dinush-chathurya)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dinushchathurya)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasinducharith)
 
 
 
