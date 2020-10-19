@@ -45,16 +45,13 @@
 
 
 [<img src="https://img.icons8.com/fluent/25/000000/facebook-new.png"/>](https://www.facebook.com/hasindu.charith.5)
-[<img src="https://img.icons8.com/color/25/000000/linkedin.png"/>](https://www.linkedin.com/in/hasinducharith)
+[<img src="https://img.icons8.com/color/25/000000/linkedin.png"/>](https://www.linkedin.com/in/hasindu-charith-b5749817b/)
 [<img src="https://img.icons8.com/fluent/25/000000/domain.png"/>](https://hasinducharith.netlify.app/)
 
 </div>
 
 <!--
-## Founder of [codingtricks.io](http://codingtricks.io/)
 
-**dinushchathurya/dinushchathurya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![Alt Text](https://media.giphy.com/media/jS24OwZjLFWt9RV5Xn/giphy.gif)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
