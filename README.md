@@ -2,11 +2,11 @@
 
 ### I'm Social Media Influencer, Developer and Content Creator!
 
-- 🔭 I’m currently working on  Helium
+- 🔭 I’m currently working on  Helium Solutions
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to read & hiking
+- ⚡ Fun fact: I love to read & travelling
 
 
 ### Languages and Frameworks:
