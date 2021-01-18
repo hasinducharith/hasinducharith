@@ -1,6 +1,6 @@
 ## Hi there 👋 I am Hasindu Charith
 
-### I'm Social Media Influencer, Developer and Content Creator!
+### I'm Developer and Content Creator!
 
 - 🔭 I’m currently working on  Helium Solutions
 - 🌱 I’m currently learning everything 🤣
