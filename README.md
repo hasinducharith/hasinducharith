@@ -5,8 +5,8 @@
 - 🔭 I’m currently working on  ITelligence
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to read & travele
+- 🥅 2023 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love to read & travel
 
 
 ### Languages and Frameworks:
