@@ -13,12 +13,15 @@
 
 <img align="left" alt="PHP" width="36px"
 src="https://camo.githubusercontent.com/9e581761c42b9210538e4727e082b7e1db70a621da3481eb6a348bdb5257af70/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7068702f7068702d6f726967696e616c2e737667" />
-<img align="left" alt="HTML5" width="36px" 
+<img align="left" alt="Laravel" width="36px" 
 src="https://camo.githubusercontent.com/569d9436b805ebea8af336170195070fd7ad6b866459fb1208f260a4876981f7/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6c61726176656c2f6c61726176656c2d706c61696e2e737667" />
+<img align="left" alt="Boostrap" width="36px"
+src="https://camo.githubusercontent.com/c76217244e1b3700a87058abf858e20a313b06dfadd972121d0d42de5bd20fa5/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f626f6f7473747261702f626f6f7473747261702d6f726967696e616c2e737667" />
 <img align="left" alt="HTML5" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="JavaScript" width="36px" src="https://camo.githubusercontent.com/442c452cb73752bb1914ce03fce2017056d651a2099696b8594ddf5ccc74825e/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6176617363726970742f6a6176617363726970742d6f726967696e616c2e737667" />
+<img align="left" alt="Ionic" width="36px" src="https://camo.githubusercontent.com/323ec1ad6ac5aafea48586b056660c341978fbf5e54ced8a5aa32a2a7de14242/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f696f6e69632f696f6e69632d6f726967696e616c2e737667" />
+<img align="left" alt="MySQL" width="36px" src="https://camo.githubusercontent.com/2582ec2237a3a1fbd34e9b57332b72be27a7facb32abe7c2335e5f86e5f457a8/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6d7973716c2f6d7973716c2d6f726967696e616c2e737667" />
 <img align="left" alt="Wordpress" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png" />
 
 
