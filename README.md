@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on ITelligence <br>👯 I’m looking to collaborate with other content creators<br>🌱 I’m currently learning everything 🤣<br>⚡ Fun fact: I love to read & travel
+🔭 I’m currently working on ITelligence <br>👯 I’m looking to collaborate with other content creators<br>🌱 I’m currently learning everything<br>⚡ Fun fact: I love to read & travel
 
 
 ## 🌐 Socials:
